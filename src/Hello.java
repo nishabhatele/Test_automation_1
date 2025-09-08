@@ -3,7 +3,7 @@ public class Hello {
         System.out.println("Hello to my new repository");
         System.out.println("Hello to my new repository");
         System.out.println("Hello to my new repository");
-        System.out.println("Hello to my new repository");
+
         System.out.println("Hello to my new repository");
     }
 }
